@@ -1,1 +1,1 @@
-# CS2Checker
+# cs2checker
